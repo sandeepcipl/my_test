@@ -9,4 +9,7 @@
         // put your code here......
         ?>
     </body>
+    get_test
 </html>
+
+edit from netbean
