@@ -9,7 +9,7 @@
         // put your code here......
         ?>
     </body>
-    get_test
+    test by sandeep from git
 </html>
 
 edit from netbean
